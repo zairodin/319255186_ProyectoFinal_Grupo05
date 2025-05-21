@@ -1,0 +1,69 @@
+newmtl blinn30SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Chapa.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn31SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Chapa.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn32SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Chapa.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Chapa.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn34SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Chapa.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn35SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Chapa.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl lambert244SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PuertaOdin.png
+Ni 1.00
+newmtl lambert245SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PuertaOdinDet.png
+Ni 1.00
+newmtl lambert246SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PuertaOdinDet.png
+Ni 1.00
